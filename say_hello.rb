@@ -1,5 +1,5 @@
 # Build your say_hello method 
 def say_hello(name)
-  puts "Hello #{"Eminem"}!"
+  puts "Hello #{name}!"
 end
-say_hello
+say_hello()
